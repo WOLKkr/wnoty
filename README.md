@@ -22,5 +22,3 @@ $.wnoty({
 | types | "error", "success", "warning", "info" |
 | autohide | true\false |
 | autohideDelay | 2500 (default) |
-
-**Need FontAwesome for types icon!**
