@@ -1,6 +1,9 @@
 # wnoty
 JQuery notify by WOLK
 
+Demo:
+https://wolkkr.github.io/wnotydemo/
+
 ![alt text](https://image.prntscr.com/image/_7qThaddQHyX6_9bF-pIsA.png)
 
 ### Usage
