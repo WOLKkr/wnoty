@@ -97,7 +97,8 @@
             settings.position = defaults.position;
         }
         if($("." + notify + "-notification").length >= 10) {
-            $("." + notify + "-notification:last").remove();
+			if(positions[1] || positions[3]) $("." + notify + "-notification:first").remove();
+            else $("." + notify + "-notification:last").remove();
         }
         initialize(settings);
     };
